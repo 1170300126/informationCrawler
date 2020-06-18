@@ -12,7 +12,7 @@ class MyFrame(wx.Frame):
 
         self.text_1 = wx.TextCtrl(panel, value="贴吧名称", pos=(10, 40))
         self.text_2 = wx.TextCtrl(panel, value="起始页码", pos=(10, 70))
-        self.text_3 = wx.TextCtrl(panel, value="停止页码", pos=(10, 100))
+        self.text_3 = wx.TextCtrl(panel, value="终止页码", pos=(10, 100))
 
         self.btn1 = wx.Button(panel, label="开始爬虫", pos=(200, 10))
         self.btn2 = wx.Button(panel, label="开始分析", pos=(200, 40))
@@ -41,6 +41,6 @@ class MyFrame(wx.Frame):
     #     self.text_3.Value = self.text_1.Value
 
 app = wx.App()
-frame = MyFrame(None, title="Multi_Text", size=(500, 300))
+frame = MyFrame(None, title="贴吧爬取及分析工具", size=(500, 300))
 frame.Show()
 app.MainLoop()

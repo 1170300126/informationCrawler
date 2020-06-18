@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79fe937-adee-472a-8e29-e13f763f7bd2" name="Default Changelist" comment="" />
+    <list default="true" id="a79fe937-adee-472a-8e29-e13f763f7bd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/result2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dao/result2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dao/stopwords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/wordseg.py" beforeDir="false" afterPath="$PROJECT_DIR$/dao/wordseg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/热点词汇饼状图.html" beforeDir="false" afterPath="$PROJECT_DIR$/dao/热点词汇饼状图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/用户等级分布图.html" beforeDir="false" afterPath="$PROJECT_DIR$/dao/用户等级分布图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/等级统计.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dao/等级统计.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,29 +52,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>j_th_tit</find>
-      <find>j_thread_list clearfix</find>
-      <find>parse</find>
-      <find>l_reply_num</find>
-      <find>p_author_name j_user_card</find>
-      <find>d_post_content j_d_post_content</find>
-      <find>l_post l_post_bright j_l_post clearfix</find>
-      <find>core_reply j_lzl_wrapper</find>
-      <find>我心中的动漫排名:美女越多排名越高</find>
-      <find>s</find>
-      <find>floor_list</find>
-      <find>filename</find>
-      <find>data_file_name</find>
-      <find>d_name</find>
-      <find>Lv挚ai动漫</find>
-      <find>urllib2</find>
-      <find>urllib.request</find>
-      <find>cookielib</find>
-      <find>e</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -278,6 +264,8 @@
       <workItem from="1592039596149" duration="955000" />
       <workItem from="1592096878588" duration="2688000" />
       <workItem from="1592168685674" duration="4273000" />
+      <workItem from="1592398688636" duration="1203000" />
+      <workItem from="1592444097772" duration="8133000" />
     </task>
     <servers />
   </component>
@@ -285,26 +273,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1659" height="211" key="GridCell.Tab.0.bottom" timestamp="1592184054830">
+    <state width="1335" height="282" key="GridCell.Tab.0.bottom" timestamp="1592476908303">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1659" height="211" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1592184054830" />
-    <state width="1659" height="211" key="GridCell.Tab.0.center" timestamp="1592184054830">
+    <state width="1335" height="282" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1592476908303" />
+    <state width="1335" height="282" key="GridCell.Tab.0.center" timestamp="1592476908302">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1659" height="211" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1592184054830" />
-    <state width="1659" height="211" key="GridCell.Tab.0.left" timestamp="1592184054830">
+    <state width="1335" height="282" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1592476908302" />
+    <state width="1335" height="282" key="GridCell.Tab.0.left" timestamp="1592476908302">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1659" height="211" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1592184054830" />
-    <state width="1659" height="211" key="GridCell.Tab.0.right" timestamp="1592184054830">
+    <state width="1335" height="282" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1592476908302" />
+    <state width="1335" height="282" key="GridCell.Tab.0.right" timestamp="1592476908302">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1659" height="211" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1592184054830" />
+    <state width="1335" height="282" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1592476908302" />
     <state x="549" y="308" key="SettingsEditor" timestamp="1592168813730">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="549" y="308" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1592168813730" />
+    <state x="1251" y="414" key="com.intellij.ide.util.TipDialog" timestamp="1592444110339">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1251" y="414" key="com.intellij.ide.util.TipDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1592444110339" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/informationCrawler$initData.coverage" NAME="initData Coverage Results" MODIFIED="1591799506061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dao" />
@@ -315,6 +307,6 @@
     <SUITE FILE_PATH="coverage/informationCrawler$browser.coverage" NAME="browser Coverage Results" MODIFIED="1591865979624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/splinter" />
     <SUITE FILE_PATH="coverage/informationCrawler$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1592098054599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entities" />
     <SUITE FILE_PATH="coverage/informationCrawler$manageTieBa.coverage" NAME="manageTieBa Coverage Results" MODIFIED="1591503641593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dao" />
-    <SUITE FILE_PATH="coverage/informationCrawler$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1592040992410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/informationCrawler$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1592476848246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
   </component>
 </project>
